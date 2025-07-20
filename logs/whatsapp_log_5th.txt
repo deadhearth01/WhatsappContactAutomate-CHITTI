@@ -1,0 +1,14 @@
+2025-07-20 16:51:02,162 - INFO - 5th sem | Message sent to 9963483088
+2025-07-20 16:54:12,184 - INFO - 5th sem | girish | 9963483088 | Message sent
+2025-07-20 17:02:32,832 - INFO - 5th sem | girish | 9963483088 | Message sent
+2025-07-20 17:03:30,304 - INFO - 5th sem | girish | 9963483088 | Message sent
+2025-07-20 17:03:56,084 - INFO - 5th sem | jagadeesh | 8688212827 | Message sent
+2025-07-20 17:26:27,739 - INFO - 5th sem | KILARU KALYANI | 8639945447 | Message sent
+2025-07-20 17:26:53,385 - INFO - 5th sem | VANAPALLI SWATHI | 7075602333 | Message sent
+2025-07-20 17:27:19,017 - INFO - 5th sem | VADLAMANI PADMA SREEKAR | 7780376886 | Message sent
+2025-07-20 17:27:44,703 - INFO - 5th sem | ADITYA KOLLURU | 9440539403 | Message sent
+2025-07-20 17:28:10,355 - INFO - 5th sem | SARIPALLI SURAJ | 7386677460 | Message sent
+2025-07-20 17:28:35,986 - INFO - 5th sem | GANAGALLA MOHAN | 8500647419 | Message sent
+2025-07-20 17:29:01,643 - INFO - 5th sem | MEKALA JAYA SIRI CHANDANA | 9381651312 | Message sent
+2025-07-20 17:30:53,277 - INFO - 5th sem | VANAPALLI SWATHI | 7075602333 | Message sent
+2025-07-20 17:33:22,983 - INFO - 5th sem | VANAPALLI SWATHI | 7075602333 | Message sent
